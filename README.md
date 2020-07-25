@@ -2,7 +2,7 @@
  
 ## On a Road to become a Web Developer
 ### Currently learning Javascript, building small Projects/Websites and joining Development Events
-<img align="left" width="50" height="50" src="https://image.flaticon.com/icons/svg/950/950018.svg">
+<img align="left" width="30" height="30" src="https://image.flaticon.com/icons/svg/950/950018.svg">
 
 Curious and always trying new things, I love learning and sharing knowledge. 
 <br><br><br>
@@ -14,14 +14,12 @@ Curious and always trying new things, I love learning and sharing knowledge.
 
 ### Languages and Technologies
 <p align="center">
-<img width="50" height="50" src="https://image.flaticon.com/icons/svg/919/919827.svg"> 
-<img width="50" height="50" src="https://image.flaticon.com/icons/svg/919/919826.svg">
-<img width="50" height="50" src="https://image.flaticon.com/icons/svg/919/919828.svg">
-<img width="50" height="50" src="https://image.flaticon.com/icons/svg/919/919853.svg">
-<img width="50" height="50" src="https://image.flaticon.com/icons/svg/919/919825.svg">
-<img width="50" height="50" src="https://image.flaticon.com/icons/svg/919/919831.svg">
-<img width="50" height="50" src="https://image.flaticon.com/icons/svg/552/552220.svg">
-<img width="50" height="50" src="https://image.flaticon.com/icons/svg/552/552224.svg">
+<img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919827.svg"> 
+<img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919826.svg">
+<img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919828.svg">
+<img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919853.svg">
+<img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919825.svg">
+<img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919831.svg">
 </p>
 
 <br>
@@ -38,7 +36,6 @@ Curious and always trying new things, I love learning and sharing knowledge.
 
 </details>
 
-<hr>
 <p align="center">
   <strong>Let's connect and share our knowledge!</strong>
  <p align="center">
