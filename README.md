@@ -7,6 +7,7 @@
 Curious and always trying new things, love learning and sharing knowledge. 
 <br><br><br>
 :dart: My goal is to become a FullStack Developer
+
 :office: Computer Engineering graduate and former Support/Infrastructure Technician at the city's Hospital Complex.
 
 - :rocket: Started **GoStack** Bootcamp from <a href="https://github.com/Rocketseat">Rocketseat's</a>
