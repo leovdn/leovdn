@@ -1,19 +1,20 @@
 <img src="https://github.com/leovdn/leovdn/raw/master/hero-image-header.png">
  
-## On a Road to become a Web Developer
+## On a Road to become a Developer
 ### Currently learning Javascript, building small Projects/Websites and joining Development Events
 <img align="left" width="30" height="30" src="https://image.flaticon.com/icons/svg/950/950018.svg">
 
-Curious and always trying new things, I love learning and sharing knowledge. 
+Curious and always trying new things, love learning and sharing knowledge. 
 <br><br><br>
-:dart: My main goal is to become a Web Developer, starting as FrontEnd and keep studying and eventually become a Fullstack Developer.
+:dart: My goal is to become a FullStack Developer
+:office: Computer Engineering graduate and former Support/Infrastructure Technician at the city's Hospital Complex.
 
-:office: I'm a Computer Engineering graduate and former Support/Infrastructure Technician at the city's Hospital Complex.
-
-:book: Currently learning from <a href="https://www.origamid.com/cursos/">Origamid's</a> courses, and building projects through <a href="https://github.com/Rocketseat">Rocketseat's</a> :rocket: Events and Youtube Channel. 
+- :rocket: Started **GoStack** Bootcamp from <a href="https://github.com/Rocketseat">Rocketseat's</a>
+- :book: Learning FrontEnd from <a href="https://www.origamid.com/cursos/">Origamid's</a>
 
 ### Languages and Technologies
-<p align="center">
+<p>
+ <br>
 <img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919827.svg"> 
 <img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919826.svg">
 <img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919828.svg">
