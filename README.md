@@ -2,7 +2,7 @@
  
 ## On a Road to become a Developer
 ### Currently learning Javascript, building small Projects/Websites and joining Development Events
-<img align="left" width="30" height="30" src="https://image.flaticon.com/icons/svg/950/950018.svg">
+
 
 Curious and always trying new things, love learning and sharing knowledge. 
 <br><br><br>
@@ -10,8 +10,8 @@ Curious and always trying new things, love learning and sharing knowledge.
 
 :office: Computer Engineering graduate and former Support/Infrastructure Technician at the city's Hospital Complex.
 
-- :rocket: Started **GoStack** Bootcamp from <a href="https://github.com/Rocketseat">Rocketseat's</a>
-- :book: Learning FrontEnd from <a href="https://www.origamid.com/cursos/">Origamid's</a>
+- :rocket: Started **GoStack** Bootcamp from <a href="https://github.com/Rocketseat">Rocketseat</a>
+- :book: Learning FrontEnd from <a href="https://www.origamid.com/cursos/">Origamid</a>
 
 ### Languages and Technologies
 <p>
