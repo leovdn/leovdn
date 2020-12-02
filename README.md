@@ -10,8 +10,9 @@ Curious and always trying new things, love learning and sharing knowledge.
 
 :office: Computer Engineering graduate and former Support/Infrastructure Technician at the city's Hospital Complex.
 
-- :rocket: Started **GoStack** Bootcamp from <a href="https://github.com/Rocketseat">Rocketseat</a>
+- :rocket: Completed **GoStack Bootcamp** from <a href="https://github.com/Rocketseat">Rocketseat</a>
 - :book: Learning FrontEnd from <a href="https://www.origamid.com/cursos/">Origamid</a>
+- <img src="https://raw.githubusercontent.com/leovdn/squad3-fifo/373d086b2610843ffdcd57bef97b7556a0668dec/frontend/img/logo.svg" width="20"/> Developed the **<a href="https://github.com/leovdn/squad3-fifo">Turnapp</a>**, a one-month-project with a team at the Hackathon process from Grupo FCamara.
 
 ### Languages and Technologies
 <p>
