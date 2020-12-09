@@ -15,17 +15,21 @@ Curious and always trying new things, love learning and sharing knowledge.
 - <img src="https://raw.githubusercontent.com/leovdn/squad3-fifo/373d086b2610843ffdcd57bef97b7556a0668dec/frontend/img/logo.svg" width="21"/> Developed the **<a href="https://github.com/leovdn/squad3-fifo">Turnapp</a>**, a Hackathon process from Grupo FCamara, acting as a Fullstack Developer alongside three people on the team.
 
 ### Languages and Technologies
-<p>
- <br>
-<img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919827.svg"> 
-<img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919826.svg">
-<img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919828.svg">
-<img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919853.svg">
-<img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919825.svg">
-<img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919831.svg">
+<p align="center">
+  <a href="https://github.com/leovdn/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leovdn&layout=compact&theme=buefy" />
+</a>
+ <img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919827.svg"> 
+ <img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919826.svg">
+ <img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919828.svg">
+ <img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919853.svg">
+ <img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919825.svg">
+ <img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919831.svg">
+ 
+
 </p>
 
-<br>
+
  
 <details> 
  <summary><b>More about me</b></summary>
