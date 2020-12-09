@@ -33,7 +33,7 @@ Curious and always trying new things, love learning and sharing knowledge.
 - Appointed by the IT Coordinator to become a Systems Analyst, but due to Covid-19's outbreak decided to resign and change fields to become a Developer;
 - :video_game: A geek/nerd who absolutely loves Gaming  and watching Anime ;
  
-[![Leovdn's github stats](https://github-readme-stats.vercel.app/api?username=leovdn)](https://github.com/leovdn/github-readme-stats)
+[![Leovdn's github stats](https://github-readme-stats.vercel.app/api?username=leovdn&show_icons=true&include_all_commits=true&theme=buefy&icon_color=CEAD2B)](https://github.com/leovdn/github-readme-stats)
 <br><br>
 ![Profile views](https://gpvc.arturio.dev/leovdn)  
 
