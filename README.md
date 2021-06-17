@@ -12,7 +12,7 @@ Curious and always open for new things. Absolutely love learning and exchanging 
 - :book: Front-End basis **(HTML, CSS, JS)** from <a href="https://www.origamid.com/cursos/">Origamid</a>
 - :rocket: Completed **GoStack13 Bootcamp - *(Typescript, NodeJs, ReactJs, React Native)*** from <a href="https://github.com/Rocketseat">Rocketseat</a>
 - <img src="https://raw.githubusercontent.com/leovdn/squad3-fifo/373d086b2610843ffdcd57bef97b7556a0668dec/frontend/img/logo.svg" width="21"/> Developed the **<a href="https://github.com/leovdn/squad3-fifo">Turnapp</a>**, a Hackathon process from Grupo FCamara, acting as a Fullstack Developer alongside three people on the team.
-- 🧡 Joined FCamara in Dec/2020 as a Fullstack Trainee Developer
+- 🧡 Joined **<a href="https://www.fcamara.com.br">FCamara</a>** in Dec/2020 as a Fullstack Trainee Developer 
 
 ### Languages and Technologies
 <p align="center">
