@@ -1,30 +1,30 @@
 <img src="https://github.com/leovdn/leovdn/raw/master/hero-image-header.png">
  
-## On a Road to become a Developer
-### Currently learning Javascript, building small Projects/Websites and joining Development Events
+## On a Road to become a Better Developer
+### Currently working as a React Front-End Trainee at Grupo FCamara 🍊
 
+Curious and always open for new things. Absolutely love learning and exchanging knowledge. 
+<br><br>
+:dart: My new goal is to polish my Front-End skills learning Design Patterns for a better environment for my Team.
 
-Curious and always trying new things, love learning and sharing knowledge. 
-<br><br><br>
-:dart: My goal is to become a FullStack Developer
+:office: Computer Engineering graduate and loving to work as a React Developer on a E-Commerce project.
 
-:office: Computer Engineering graduate and former Support/Infrastructure Technician at the city's Hospital Complex.
-
-- :rocket: Completed **GoStack Bootcamp** from <a href="https://github.com/Rocketseat">Rocketseat</a>
-- :book: Learning FrontEnd from <a href="https://www.origamid.com/cursos/">Origamid</a>
+- :book: Front-End basis **(HTML, CSS, JS)** from <a href="https://www.origamid.com/cursos/">Origamid</a>
+- :rocket: Completed **GoStack13 Bootcamp - *(Typescript, NodeJs, ReactJs, React Native)*** from <a href="https://github.com/Rocketseat">Rocketseat</a>
 - <img src="https://raw.githubusercontent.com/leovdn/squad3-fifo/373d086b2610843ffdcd57bef97b7556a0668dec/frontend/img/logo.svg" width="21"/> Developed the **<a href="https://github.com/leovdn/squad3-fifo">Turnapp</a>**, a Hackathon process from Grupo FCamara, acting as a Fullstack Developer alongside three people on the team.
+- 🧡 Joined FCamara in Dec/2020 as a Fullstack Trainee Developer
 
 ### Languages and Technologies
 <p align="center">
   <a href="https://github.com/leovdn/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leovdn&layout=compact&theme=buefy" />
 </a>
- <img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919827.svg"> 
- <img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919826.svg">
- <img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919828.svg">
- <img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919853.svg">
- <img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919825.svg">
- <img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919831.svg">
+ <img width="40" height="40" src="https://image.flaticon.com/icons/png/512/919/919832.png"> 
+ <img width="40" height="40" src="https://image.flaticon.com/icons/png/512/919/919851.png">
+ <img width="40" height="40" src="https://image.flaticon.com/icons/svg/919/919828.svg">
+ <img width="40" height="40" src="https://image.flaticon.com/icons/svg/919/919853.svg">
+ <img width="40" height="40" src="https://image.flaticon.com/icons/svg/919/919825.svg">
+
  
 
 </p>
