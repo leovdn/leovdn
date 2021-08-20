@@ -1,7 +1,7 @@
 <img src="https://github.com/leovdn/leovdn/raw/master/hero-image-header.png">
  
 ## On a Road to become a Better Developer
-### Currently working as a React Front-End Trainee at Grupo FCamara 🍊
+### Currently working as a React Jr Developer at Grupo FCamara 🍊
 
 Curious and always open for new things. Absolutely love learning and exchanging knowledge. 
 <br><br>
