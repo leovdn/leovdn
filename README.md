@@ -18,15 +18,7 @@ Curious and always open for new things. Absolutely love learning and exchanging 
 <p align="center">
   <a href="https://github.com/leovdn/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leovdn&layout=compact&theme=buefy" />
-</a>
- <img width="40" height="40" src="https://image.flaticon.com/icons/png/512/919/919832.png"> 
- <img width="40" height="40" src="https://image.flaticon.com/icons/png/512/919/919851.png">
- <img width="40" height="40" src="https://image.flaticon.com/icons/svg/919/919828.svg">
- <img width="40" height="40" src="https://image.flaticon.com/icons/svg/919/919853.svg">
- <img width="40" height="40" src="https://image.flaticon.com/icons/svg/919/919825.svg">
-
- 
-
+  </a>
 </p>
 
 
@@ -37,7 +29,7 @@ Curious and always open for new things. Absolutely love learning and exchanging 
 - Appointed by the IT Coordinator to become a Systems Analyst, but due to Covid-19's outbreak decided to resign and change fields to become a Developer;
 - :video_game: A geek/nerd who absolutely loves Gaming  and watching Anime ;
  
-[![Leovdn's github stats](https://github-readme-stats.vercel.app/api?username=leovdn&show_icons=true&include_all_commits=true&theme=buefy&icon_color=CEAD2B)](https://github.com/leovdn/github-readme-stats)
+[![Leovdn's github stats](https://github-readme-stats.vercel.app/api?username=leovdn&show_icons=true&include_all_commits=true&theme=buefy)](https://github.com/leovdn/github-readme-stats)
 <br><br>
 ![Profile views](https://gpvc.arturio.dev/leovdn)  
 
